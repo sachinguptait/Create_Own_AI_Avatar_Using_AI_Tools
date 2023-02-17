@@ -11,11 +11,11 @@
 
 🔶 Studio D-ID for video generation: https://studio.d-id.com/
 
-✴️ Promot used to generate the image:
+❇️ Promot used to generate the image:
 "a half shot of a professional girl wearing a half t-shirt going for an interview, ultra-realistic, high quality, 8k ultra, --ar 20:10"
 
 ### 🔴 ⏯ Click on the below image in order to watch the video and learn the art of creation our own AI Avatar:
 
-## Please go through below videos for detailed information:- [Click here to Subscribe the YouTube Channel](https://www.youtube.com/channel/UCLTE4_DaxM3w2pqjIrnkO8A?sub_confirmation=1)
+## [Click here to Subscribe the YouTube Channel](https://www.youtube.com/channel/UCLTE4_DaxM3w2pqjIrnkO8A?sub_confirmation=1)
 
 [!["A complete guide to creating Your Own AI Avatar"](https://i.ytimg.com/vi/7jXx-Vszu9s/maxresdefault.jpg)](https://youtu.be/7jXx-Vszu9s "A complete guide to creating Your Own AI Avatar")
